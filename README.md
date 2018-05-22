@@ -36,4 +36,4 @@ Clustering is a method of unsupervised learning. that involves the grouping of d
 
 ### Reference
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Thoughts on Human Learning vs Machine Learning](https://singularity2030.ch/thoughts-on-human-learning-vs-machine-learning/)
